@@ -1469,10 +1469,6 @@ h6 {
   font-weight: 800;
 }
 
-.heading-1-font-light {
-  font-weight: 300;
-}
-
 @media (max-width: 575px) {
   h1 br,
   h2 br,
