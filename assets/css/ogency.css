@@ -1411,15 +1411,15 @@
 :root {
   --ogency-font: "Poppins", sans-serif;
   --heading-font: "Poppins", sans-serif;
-  --ogency-color: #5d5d5d;
+  --ogency-color: #9b9999;
   --ogency-color-rgb: 93, 93, 93;
   --ogency-base: #13d209;
   --ogency-base-rgb: 245, 144, 13;
-  --ogency-black: #000000;
-  --ogency-black-rgb: 0, 0, 0;
-  --ogency-black2: #101010;
+  --ogency-black: #233142;
+  --ogency-black-rgb: 0, 53, 79;
+  --ogency-black2: #2c3e53;
   --ogency-black2-rgb: 16, 16, 16;
-  --ogency-black3: #1a1a1a;
+  --ogency-black3: #354a63;
   --ogency-black3-rgb: 26, 26, 26;
   --ogency-white: #ffffff;
   --ogency-white-rgb: 255, 255, 255;
